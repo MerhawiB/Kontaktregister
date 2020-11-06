@@ -1,0 +1,10 @@
+C:\Users\Merhawi\Desktop\HobbyProjekt\Contact App\Contact App\obj\Debug\Contact App.csprojAssemblyReference.cache
+C:\Users\Merhawi\Desktop\HobbyProjekt\Contact App\Contact App\obj\Debug\Contact_App.Form1.resources
+C:\Users\Merhawi\Desktop\HobbyProjekt\Contact App\Contact App\obj\Debug\Contact_App.Properties.Resources.resources
+C:\Users\Merhawi\Desktop\HobbyProjekt\Contact App\Contact App\obj\Debug\Contact App.csproj.GenerateResource.cache
+C:\Users\Merhawi\Desktop\HobbyProjekt\Contact App\Contact App\obj\Debug\Contact App.csproj.CoreCompileInputs.cache
+C:\Users\Merhawi\Desktop\HobbyProjekt\Contact App\Contact App\bin\Debug\Contact App.exe.config
+C:\Users\Merhawi\Desktop\HobbyProjekt\Contact App\Contact App\bin\Debug\Contact App.exe
+C:\Users\Merhawi\Desktop\HobbyProjekt\Contact App\Contact App\bin\Debug\Contact App.pdb
+C:\Users\Merhawi\Desktop\HobbyProjekt\Contact App\Contact App\obj\Debug\Contact App.exe
+C:\Users\Merhawi\Desktop\HobbyProjekt\Contact App\Contact App\obj\Debug\Contact App.pdb
